@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagerMDR", "FuelManagerMDR.csproj", "{01D06CF9-9160-4360-88AA-755873D2A13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D06CF9-9160-4360-88AA-755873D2A13A}.Debug|x64.ActiveCfg = Debug|x64
+		{01D06CF9-9160-4360-88AA-755873D2A13A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E11BBE1-C721-4C26-8103-F50C1C08671C}
+	EndGlobalSection
+EndGlobal
